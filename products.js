@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
         break;
 
       case "Italia":
-        productImage.src = "frri458itl";
+        productImage.src = "frri458itl.png";
         productName.textContent = "Ferarri 458 italia";
         productPrice.textContent = "₱ 20000000.00";
         productDescription.textContent = "The Ferrari 458 Italia, unveiled in 2009, is a mid-engine sports car that epitomizes Italian automotive artistry and engineering. Powered by a 4.5-liter V8 engine, it delivers an exhilarating 562 horsepower, and in just 3.3 seconds this allows it to sprint from 0 to 60 mph and reach a top speed of around 202 mph. The 458 Italia boasts an aerodynamic design that combines sleek, aggressive lines with innovative features such as a retractable rear spoiler and advanced airflow management. Inside, it offers a driver-focused cockpit with premium materials and cutting-edge technology, ensuring both performance and luxury. This model not only embodies Ferrari's racing heritage but also sets new standards in design, power, and driving pleasure.";
