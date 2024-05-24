@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
         break;
 
       case "S2000":
-        productImage.src = "hndS2000.png";
+        productImage.src = "hndaS2000.png";
         productName.textContent = "Honda S2000 Pink";
         productPrice.textContent = "₱ 2500000.00";
         productDescription.textContent = "The Honda S2000 is a legendary sports car renowned for its exhilarating performance and agile handling. First introduced in 1999 and produced until 2009, the S2000 embodies the essence of a classic roadster designed with a retractable soft top. Powered by a high-revving 2.0-liter or later 2.2-liter VTEC inline-four engine, the S2000 delivers a thrilling driving experience, with its 50:50 weight distribution contributing to its superb balance and responsiveness. With a focus on driver engagement, the S2000 features a close-ratio six-speed manual transmission, precise steering, and a rear-wheel-drive layout, making it a favorite among enthusiasts who appreciate pure, unadulterated driving pleasure.";
